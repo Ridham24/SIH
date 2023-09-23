@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin-bottom: 1px !important;
+  margin-top: 0px !important;
+  margin-left: 0px;
+  margin-right: 0;
+}
+.title {
+  color: black;
+  display: block;
+  align-items: center;
+}
+.title h1 {
+  margin: 0 !important;
+  padding: 0;
+}
+li {
+  margin-right: 6rem;
+}
+ul {
+  margin: 0 !important;
+  padding: 10px;
+  display: flex;
+  list-style-type: none;
+  background-color: #90ee90;
+  align-items: center;
+}
+li a {
+  text-decoration: none;
+  color: black;
+}
+.icon {
+  color: green;
+}
+.list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: auto;
+}
