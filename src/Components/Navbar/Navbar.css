@@ -19,7 +19,6 @@ li {
 }
 ul {
   margin: 0 !important;
-  padding: 10px;
   display: flex;
   list-style-type: none;
   background-color: #90ee90;
