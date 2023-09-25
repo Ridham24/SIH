@@ -1,5 +1,10 @@
-import './Home.css'
+import Footer from "../Footer/Footer";
+import "./Home.css";
 const Home = () => {
-  return <div>Home</div>
-}
-export default Home
+  return (
+    <>
+      <Footer />
+    </>
+  );
+};
+export default Home;
