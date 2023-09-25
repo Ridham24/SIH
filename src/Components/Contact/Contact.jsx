@@ -2,7 +2,7 @@ import "./Contact.css";
 const Contact = () => {
   return (
     <>
-      <section>
+      <section className="card">
         <div className="container mt-5 pt-4 pb-2">
           <div className="row" style={{ justifyContent: "center" }}>
             <div className="col-sm-5  col-md-6 offset-md-0 contact">
