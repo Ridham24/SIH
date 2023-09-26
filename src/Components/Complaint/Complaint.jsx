@@ -28,6 +28,16 @@ const Complaint = () => {
                     required
                   />
                 </div>
+                <div className="form-group">
+                  <label for="photo">Photo</label>
+                  <input
+                    type="file"
+                    id="photo"
+                    name="photo"
+                    className="form-control"
+                    required
+                  ></input>
+                </div>
 
                 <div className="form-group">
                   <label for="complaint">Enter Complaint Message</label>
